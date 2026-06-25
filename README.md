@@ -113,5 +113,5 @@ Generate a clean dataset ready for machine learning.
 ## Output:
 
 ```text
-processed/cleaned_feature_engineered_dataset.csv
+cleaned_feature_engineered_dataset.csv
 ```
